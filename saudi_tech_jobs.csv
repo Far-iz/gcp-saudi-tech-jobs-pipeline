@@ -1,0 +1,13 @@
+job_title,company_size,location,salary_sar,experience_level,skills_required
+Data Engineer,Medium,Riyadh,18500,Mid-Level,Python;SQL;GCP
+Data Analyst,Large,Riyadh,14000,Entry-Level,Excel;SQL;Looker
+QA Automation Engineer,Large,Jeddah,16000,Mid-Level,Java;Cypress;Jira
+Data Scientist,Large,Riyadh,24000,Senior,Python;Machine Learning
+System Tester,Small,Dammam,9500,Entry-Level,Manual Testing;Jira
+Cloud Solutions Architect,Large,Riyadh,32000,Senior,GCP;Networking;Security
+Data Engineer,Large,Riyadh,22000,Mid-Level,Python;SQL;PostgreSQL
+Full Stack Developer,Medium,Jeddah,17500,Mid-Level,JavaScript;Java
+Data Analyst,Small,Khobar,11000,Entry-Level,Excel;PowerBI
+QA Specialist,Medium,Riyadh,13000,Mid-Level,Manual Testing;SQL;Jira
+Data Engineer,Large,Jeddah,28000,Senior,Python;SQL;BigQuery
+BI Developer,Large,Riyadh,19000,Mid-Level,SQL;Looker;ETL
