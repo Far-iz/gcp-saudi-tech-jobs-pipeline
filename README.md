@@ -20,4 +20,3 @@ An end-to-end data engineering and analytics project built using **Google Cloud 
 * Created real-time metrics for entry, mid, and senior level roles.
 
 ## 🚀 Live Interactive Dashboard
-*(أضف رابط مشاركة اللوحة من Looker Studio هنا إذا رغبت)*
